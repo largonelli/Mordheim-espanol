@@ -2,11 +2,15 @@
 <dataIndex battleScribeVersion="2.03" name="Mordheim en Español" indexUrl="https://raw.githubusercontent.com/largonelli/Mordheim-espanol/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Mordheim-espanol.gstz" dataType="gamesystem" dataId="1a30-8a66-43d9-ef3d" dataName="Mordheim en Español" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Mercenarios_de_Averland.catz" dataType="catalogue" dataId="b2bb-e594-a6fc-b417" dataName="Mercenarios de Averland" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Los_No_Muertos.catz" dataType="catalogue" dataId="410e-dd64-5880-ed14" dataName="Los No Muertos" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Mercenarios_de_Middenheim.catz" dataType="catalogue" dataId="1f2d-039a-acd4-9407" dataName="Mercenarios de Middenheim" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Mercenarios_de_Reikland.catz" dataType="catalogue" dataId="dc48-084e-d3e3-ccfb" dataName="Mercenarios de Reikland" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="El_Culto_de_los_Poseidos.catz" dataType="catalogue" dataId="f335-c47b-aaf0-73b7" dataName="El Culto de los Poseídos" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Cazadores_de_Brujas.catz" dataType="catalogue" dataId="5afc-1d90-7a22-71c5" dataName="Cazadores de Brujas" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Personajes.catz" dataType="catalogue" dataId="d448-255d-9c5c-dc9a" dataName="Personajes" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Hermanas_de_Sigmar.catz" dataType="catalogue" dataId="69f4-d737-bfc1-771d" dataName="Hermanas de Sigmar" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Guerreros_de_Ostland.catz" dataType="catalogue" dataId="a685-91a9-bf6f-5e34" dataName="Guerreros de Ostland" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Mercenarios_de_Mariemburgo.catz" dataType="catalogue" dataId="c377-e115-9a46-933d" dataName="Mercenarios de Mariemburgo" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>
